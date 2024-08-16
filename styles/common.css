@@ -1,0 +1,75 @@
+/* header, footer 전용 위치 */
+/* header pc */
+header {
+  background: #222; height: 80px; max-width: 1920px;
+  display: flex; justify-content:  space-between; align-items: center; padding: 0 30px;
+  position: relative;}
+header h1 {width: 300px;}
+header h1 a {}
+header h1 a img {width: 100%; }
+header nav {position: relative;}
+header nav .gnb {display: flex;}
+header nav .gnb > li {margin-right: 60px; position: relative; z-index: 200;}
+header nav .gnb > li:last-child {margin:0;}
+header nav .sub_bg {/* =============================서브 공통 배경 위치 */
+  background: #222;
+  display: block; position: absolute;
+  width: 100%; height: 130px; z-index: 100;
+}
+
+header nav .gnb > li a {
+  color: #fff; font-size: 1.19rem; letter-spacing: -2%;
+}
+header nav .gnb > li .sub {
+  position: absolute;
+  width: max-content; text-align: center; 
+  /*  absolute  적용상태에서 요소를 부모 기분 가운데 배치할 경우 */
+  left: 50%; transform: translateX(-50%);
+  top: 43px;
+}
+header nav .gnb > li .sub li {}
+header nav .gnb > li .sub li a {color: #fff;
+  line-height: 1.7; letter-spacing: -2%;}
+header .lnb {display: flex;}
+header .lnb a {margin-left: 14px;}
+header .lnb a:first-child {margin: 0;}
+header .lnb .content_link {
+  color: #fff; font-size: 1.19rem; letter-spacing: -2%;
+  border: 2px solid #fff; border-radius: 5px; padding: 4px; height: max-content;
+}
+header .lnb .alarm {width: 32px; height: 32px;}
+header .lnb .alarm img {filter: invert(1); width: 100%;} /* 반전!! 검정에서 흰색으로 바꿀 수 있음 */
+/* img태그를 반응형처리할 경우에는 img는 width:100% (상대값)로 설정하고
+img의 부모 태그한테 원하는 px 크기를 적용하는 방향으로 처리한다 */
+/* ===============================태블릿, 모바일에서 보이는 메뉴 위치 */
+header .lnb .m_nav {/* display: none; */
+  background: brown; width: 32px; height: 32px; position: relative;
+}
+header .lnb .m_nav span {
+  display: block; width: 100%; height: 5px; background: #fff;
+  position: absolute; left: 0;}
+header .lnb .m_nav span:nth-child(1) {top: 0;}
+header .lnb .m_nav span:nth-child(2) {top: 40%;}
+header .lnb .m_nav span:nth-child(3) {bottom: 0;}
+/* ===================================전체메뉴 span *3  X모양 만들기 */
+/* header .lnb .m_nav span:nth-child(1) {
+  transform: rotate(45deg);
+  transform-origin: left top;
+}
+header .lnb .m_nav span:nth-child(2) {display: none;}
+header .lnb .m_nav span:nth-child(3) {
+  transform: rotate(-45deg);
+  transform-origin: left top;
+} */
+header .m_nav_wrap {
+  background: #222;
+  position: fixed; right: 0; top: 80px; z-index: 999;  
+}
+header .m_nav_wrap .gnb {padding: 10px 30px 0 15px;}
+header .m_nav_wrap .gnb > li { margin-bottom: 30px;}
+header .m_nav_wrap .gnb > li a {color: #fff; font-size: 1.19rem;}
+header .m_nav_wrap .gnb > li .sub {margin-top: 10px; padding-left: 5px;}
+header .m_nav_wrap .gnb > li .sub li {}
+header .m_nav_wrap .gnb > li .sub li a {
+  color: #fff; font-size: 1rem; line-height: 1.7;
+}
