@@ -1,10 +1,6 @@
 ## Hi there 👋
 안녕하세요 풀스택 개발자 연습생입니다.
-
-
-**rlaksl/rlaksl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
