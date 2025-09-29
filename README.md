@@ -1,6 +1,9 @@
 # Hi there 👋
 보이는 것 너머의 세계를 탐구하는 개발자가 되고 싶은  
 개발자 연습생 김환희입니다.
+<br>
+Java/Spring 기반 백엔드 개발과 React 프론트엔드를 학습하며  
+실무에서 바로 사용할 수 있는 코드 작성 능력을 키우고 있습니다.
 <br/><br/>
 ## 📁 **Portfolio:** <small>[여기서 확인하세요!](https://rlaksl.github.io/portfolio_hwanhui/)</small>
 
@@ -61,12 +64,17 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  
-  <!-- GitHub 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" width="400"/>
+
+   <!-- GitHub 통계 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=vue&hide_border=false" alt="GitHub Stats" height="193"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=solarized-light&hide_border=false" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=flag-india&hide_border=false" alt="GitHub Stats" width="400"/> -->
+
   
   <!-- 가장 많이 사용한 언어 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=vue&hide_border=false" alt="Top Languages" width="350"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=solarized-light&hide_border=false" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=flag-india&hide_border=false" alt="Top Languages" width="350"/> -->
   
 </div>
 
@@ -75,3 +83,4 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=rlaksl&theme=graywhite" alt="GitHub Streak"/>
 </div>
+
