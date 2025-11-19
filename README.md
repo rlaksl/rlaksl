@@ -21,7 +21,7 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 ## 🚀 주요 프로젝트
 
 ### 🐱 JavaNyang - 자바 학습 퀴즈 플랫폼
-> **실시간 대전으로 즐기는 자바 학습** 
+> **실시간 대전으로 즐기는 자바 학습**  
 > **Tech:** React, Supabase, PostgreSQL  
 > **Role:** 회원가입, 실시간 대전, 실시간 채팅, 마이페이지 구현  
 > **Repository:** [GitHub](https://github.com/rlaksl/JavaNyang)
@@ -112,6 +112,7 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=rlaksl&theme=graywhite" alt="GitHub Streak"/>
 </div>
+
 
 
 
