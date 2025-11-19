@@ -33,8 +33,8 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 > **Repository:** [Frontend](https://github.com/rlaksl/studyO-frontend) | [Backend](https://github.com/rlaksl/studyO-backend)
 
 ### 🛒 M-MALL - 전자상거래 플랫폼
-> **현대카드 M몰 모티브 쇼핑몰** 
-> **Tech:** React, Supabase, PostgreSQL
+> **현대카드 M몰 모티브 쇼핑몰**  
+> **Tech:** React, Supabase, PostgreSQL, GitHub Actions  
 > **Role:** 기획/디자인, 로그인/회원가입, 검색/리뷰 시스템, 관리자 페이지(콘텐츠/카테고리 관리)  
 > **Repository:** [GitHub](https://github.com/MMALL-Dev-Project/M-MALL)
 
@@ -112,6 +112,7 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=rlaksl&theme=graywhite" alt="GitHub Streak"/>
 </div>
+
 
 
 
