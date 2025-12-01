@@ -1,5 +1,5 @@
 # Hi there 👋
-보이는 것 너머의 세계를 탐구하는 백엔드 개발자 김환희입니다.
+빠르게 배우고 확실하게 성장하는 신입 개발자 김환희입니다.
 <br>
 Java/Spring 기반 백엔드 개발자를 목표로 하며,  
 실무에서 바로 사용할 수 있는 코드 작성 능력을 키우고 있습니다.
@@ -93,18 +93,8 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 ## 📊 GitHub Stats
 
 <div align="left">
-
-   <!-- GitHub 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=vue&hide_border=false" alt="GitHub Stats" height="193"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=solarized-light&hide_border=false" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaksl&show_icons=true&theme=flag-india&hide_border=false" alt="GitHub Stats" width="400"/> -->
-
-  
-  <!-- 가장 많이 사용한 언어 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=vue&hide_border=false" alt="Top Languages" width="350"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=solarized-light&hide_border=false" alt="Top Languages" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=flag-india&hide_border=false" alt="Top Languages" width="350"/> -->
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlaksl&show_icons=true&theme=vue&hide_border=false" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=vue&hide_border=false" alt="Top Languages" height="180"/>
 </div>
 
 
@@ -112,6 +102,7 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=rlaksl&theme=graywhite" alt="GitHub Streak"/>
 </div>
+
 
 
 
