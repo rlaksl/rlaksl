@@ -20,7 +20,7 @@ Java/Spring 기반 백엔드 개발자를 목표로 하며,
 
 ## 주요 프로젝트
 
-### 티켓 예매 시스템 (진행중) | 개인 프로젝트
+### 티켓 예매 시스템 | 개인 프로젝트
 > **동시성 문제를 해결한 공연 티켓 예매 백엔드 프로젝트**  
 > **Tech:** Spring Boot, Spring Security, JPA, MySQL, Redis, JWT, WebSocket  
 > **Features:** Optimistic Locking 기반 좌석 동시성 제어, Redis 대기열 시스템, 실시간 좌석 업데이트  
