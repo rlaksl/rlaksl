@@ -115,11 +115,3 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=vue&hide_border=false" alt="Top Languages" height="180"/>
 </div>
 
-
-## GitHub Streak Stats
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=rlaksl&theme=graywhite" alt="GitHub Streak"/>
-</div>
-
-
-
