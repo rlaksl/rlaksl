@@ -108,6 +108,6 @@
 </br>
 
 ## GitHub Stats
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=flag-india)
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=flag-india)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rlaksl&layout=donut&langs_count=5&theme=flag-india)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rlaksl&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=flag-india)
 
