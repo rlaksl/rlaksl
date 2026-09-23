@@ -105,13 +105,9 @@
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
 </p>
-
-<br/>
+</br>
 
 ## GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlaksl&show_icons=true&theme=vue&hide_border=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlaksl&layout=compact&theme=vue&hide_border=false" alt="Top Languages" height="180"/>
-</div>
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=flag-india)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=flag-india)
 
